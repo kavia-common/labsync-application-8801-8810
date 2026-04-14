@@ -32,3 +32,4 @@ google-services.json
 
 # Android Profiling
 *.hprof
+.file_activity_report.json
